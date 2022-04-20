@@ -56,7 +56,7 @@
 	},
 	"dependencies": {
 		"@wordpress/block-editor": "^8.0.13",
-		"@wordpress/blocks": "^11.1.5",
+		"@wordpress/blocks": "^11.4.0",
 		"classnames": "^2.3.1",
 		"fast-average-color": "^7.0.1",
 		"perfect-freehand": "1.0.16",
