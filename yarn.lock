@@ -7621,10 +7621,10 @@ fast-average-color@4.3.0:
   resolved "https://registry.yarnpkg.com/fast-average-color/-/fast-average-color-4.3.0.tgz#baf08eb9c62955c40718a26c47d0b1501c62193e"
   integrity sha512-k8FXd6+JeXoItmdNqB3hMwFgArryjdYBLuzEM8fRY/oztd/051yhSHU6GUrMOfIQU9dDHyFDcIAkGrQKlYtpDA==
 
-fast-average-color@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/fast-average-color/-/fast-average-color-7.0.1.tgz#2304cc62578f4427c1bc48844faa1c5178835b67"
-  integrity sha512-M9Lg7mO/sSGezi7cB/i+I9ym33IBcdeREHk222//3sbtj2+Aq9Cv3DIVY1asn3fu4rX2ENQ2iv2mCSaVpC68SQ==
+fast-average-color@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/fast-average-color/-/fast-average-color-7.1.0.tgz#8411161a524bddd613cadf7489da4ccdb0150507"
+  integrity sha512-eTc18sdbr2P2xZFMhvWmo+T7MJ403k4jSiapTMoOcvkptu7SWOU+TzN4tFL4B9sIKUSXA63Xu7Mpc4fmncDZ+Q==
   dependencies:
     "@types/offscreencanvas" "^2019.6.4"
 
